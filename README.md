@@ -52,4 +52,4 @@
   - 현재는 아이디어에 대해서만 간략히 설명 하였기 때문에 어플의 보안에 대해서는 구체적인 구현 방식에 대하여 생각해보지 않았지만 이 또한 차후에 완성 어플에서는 구체적으로 구현함으로써 어플의 보안 안정성을 높일 것 입니다.
 
 ### 포스터
-(https://github.com/Hyeonyoung27/SW-idea/blob/master/SW%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%EC%A0%9C%EC%B6%9C%EC%9A%A9.jpg?raw=true)
+![](https://github.com/Hyeonyoung27/SW-idea/blob/master/SW%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%20%EC%BD%98%ED%85%8C%EC%8A%A4%ED%8A%B8%20%ED%8F%AC%EC%8A%A4%ED%84%B0%20%EC%A0%9C%EC%B6%9C%EC%9A%A9.jpg?raw=true)
